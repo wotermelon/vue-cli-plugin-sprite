@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-sprite",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "description": "vue-cli 3 plugin to build a sprite img",
   "repository": {
     "type": "git",
